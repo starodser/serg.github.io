@@ -55057,7 +55057,7 @@ H(a){var s=null,r=a.O(t.w).f.a
 return A.e0(B.ae,A.ib("Courses : Flutter & Dart - The Complete Guide [2024 Edition] ",A.jw(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),B.Dw,s,r.b*0.2,s,s,r.a*0.8)}}
 A.Bs.prototype={
 H(a){var s=a.O(t.w).f.a
-return A.nI(new A.dh(B.yV,new A.Dn(s,"Skills :"," Provider , Bloc , Firebase , Riverhood. ",null),null),s.b*0.2,null)}}
+return A.nI(new A.dh(B.yV,new A.Dn(s,"Skills :"," Provider , Bloc , Firebase , Riverpod, Rest API ",null),null),s.b*0.2,null)}}
 A.Dn.prototype={
 H(a){var s=null,r=this.c,q=A.fA(15)
 return A.e0(s,new A.dh(B.yY,A.ka(A.a([A.ib(this.d,B.He,s),B.jP,A.ib(this.e,B.HI,B.jS)],t.p),B.dy,B.a2),s),s,new A.d0(B.ld,s,s,q,s,s,B.a6),r.b*0.3,s,s,r.a*0.8)}}
